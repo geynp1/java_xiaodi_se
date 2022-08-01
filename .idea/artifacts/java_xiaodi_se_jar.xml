@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/java_xiaodi_se_jar</output-path>
     <root id="archive" name="java_xiaodi_se.jar">
       <element id="module-output" name="java_xiaodi_se" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../文件/03.课件/java_se/小课堂2019年12月全新javase课程笔记+源码/源码等其他资料/第16章/第5集/gson-2.6.2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

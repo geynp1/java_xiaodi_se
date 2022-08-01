@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/文件/03.课件/java_se/小课堂2019年12月全新javase课程笔记+源码/源码等其他资料/第16章/第5集/gson-2.6.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../小滴课堂/java_se/小课堂2019年12月全新javase课程笔记+源码/源码等其他资料/第16章/第5集/gson-2.6.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
