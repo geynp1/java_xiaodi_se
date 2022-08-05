@@ -1,6 +1,5 @@
-package net.xdclass.chapter9;
+package net.xdclass.chapter09;
 
-import java.util.Date;
 import java.util.Objects;
 
 public class ObjectTest {

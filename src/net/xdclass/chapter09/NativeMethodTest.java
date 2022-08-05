@@ -1,4 +1,4 @@
-package net.xdclass.chapter9;
+package net.xdclass.chapter09;
 
 public class NativeMethodTest {
 }

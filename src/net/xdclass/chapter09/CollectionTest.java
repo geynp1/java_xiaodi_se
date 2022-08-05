@@ -1,4 +1,4 @@
-package net.xdclass.chapter9;
+package net.xdclass.chapter09;
 
 import java.util.ArrayList;
 import java.util.Collections;
