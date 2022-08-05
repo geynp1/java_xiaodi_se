@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: net.xdclass.chapter17.app.Main
-
