@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="java_xiaodi_se:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/java_xiaodi_se_jar</output-path>
-    <root id="archive" name="java_xiaodi_se.jar">
-      <element id="module-output" name="java_xiaodi_se" />
-    </root>
-  </artifact>
-</component>
