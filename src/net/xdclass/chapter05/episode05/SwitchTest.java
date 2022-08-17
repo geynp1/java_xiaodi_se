@@ -19,7 +19,7 @@ public class SwitchTest {
 
             case 5: content = "周五";
                 break;
-                
+
             default:
                 content = "无效数字";
         }
